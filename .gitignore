@@ -1,3 +1,10 @@
 # FILES
 .DS_Store
 
+
+# PATTERNS
+
+
+# FOLDERS
+log/
+
