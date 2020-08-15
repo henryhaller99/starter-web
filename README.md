@@ -4,6 +4,8 @@
 This repository is for showing how Git and GitHub work
 This is a simṕle website project for github cource
 
+Adding some more text for rebasing example
+
 ## Introduction
 
 This is example us toio dhow weufhqwoehfoqh we
