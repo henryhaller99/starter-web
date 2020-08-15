@@ -18,3 +18,8 @@ more bla bla bla
 Sample website with plenty of files for demos
 
 ## How to Contribute
+
+
+#Copyright
+
+This is a copyright
