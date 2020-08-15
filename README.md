@@ -9,9 +9,11 @@ This is a simṕle website project for github cource
 This is example us toio dhow weufhqwoehfoqh we
 
 ## Purpose
-
+ bla bla bla
 
 ## Deployment
+
+more bla bla bla
 
 Sample website with plenty of files for demos
 
