@@ -26,4 +26,4 @@ Please fork this respository and then issue Pull Request for review
 
 #Copyright
 
-This is a copyright
+This is a copyright. ALL RIGHTS RESERVED
