@@ -4,8 +4,7 @@
 This repository is for showing how Git and GitHub work
 This is a simṕle website project for github cource
 
-Adding some more text for rebasing example
-then more changes...
+Updating for emergency fix
 
 ## Introduction
 
